@@ -6,7 +6,7 @@ The dataset consists of **20,000 unique, structurally valid, and factually accur
 
 ---
 
-## 📊 Corpus Composition & Source Distribution
+##  Corpus Composition & Source Distribution
 
 To ensure representative coverage of modern, classical, official, and colloquial Urdu, the dataset adheres to the following precise contribution distributions:
 
@@ -23,7 +23,7 @@ To ensure representative coverage of modern, classical, official, and colloquial
 
 ---
 
-## 🧬 Sample Schema Format
+##  Sample Schema Format
 
 Every sample in the dataset is structured as a JSON object matching the standard multi-hop QA benchmark format:
 
@@ -96,7 +96,7 @@ This validation tool automatically verifies the integrity of the generated datas
 
 ---
 
-## 📖 Citation & Usage in Thesis
+##  Citation & Usage in Thesis
 
 If you are using this dataset or generation framework for your master's/PhD thesis on Urdu NLP and RAG evaluation, please cite the resources and authors:
 
