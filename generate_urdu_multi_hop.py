@@ -2,9 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Urdu Multi-Hop QA Dataset Generator for RAG
-Author: Jules (Expert NLP Software Engineer)
-Description: Programmatically generates a 20k Urdu multi-hop QA dataset
-             with authentic sources, true links, and high-quality contexts.
+
 """
 
 import os
