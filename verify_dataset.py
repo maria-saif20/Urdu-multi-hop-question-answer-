@@ -2,9 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Urdu Multi-Hop QA Dataset Validator
-Author: Jules (Expert NLP Software Engineer)
-Description: Verifies the generated 20k Urdu multi-hop QA dataset
-             for formatting, schema conformity, distribution, and content integrity.
 """
 
 import os
