@@ -5,6 +5,8 @@ This repository contains a high-quality, authentic, programmatically generated *
 The dataset consists of **20,000 unique, structurally valid, and factually accurate samples** sourced from diverse genuine corpora with authentic URLs and true links. It conforms perfectly to the requested multi-hop QA schema.
 
 ---
+## Dataset link
+https://huggingface.co/datasets/mariasaif20/Urdu_MultiHop_QA/tree/main
 
 ##  Corpus Composition & Source Distribution
 
